@@ -30,4 +30,4 @@ Programmiersprache	|C, Perl, Shell
 Plattformen		|Windows, macOS, Linux, Unix
 Lizenz			|GNU General Public License v2 (GPLv2)
 Repository		|https://git-scm.com
-Erste Veröffentlichung	|589
+Erste Veröffentlichung	|2005
