@@ -1,0 +1,33 @@
+Profil des Open Source-Projekts Git
+
+Überblick
+~~~~~~~~~
+Git ist ein freies und quelloffenes, verteiltes Versionskontrollsystem. Es wurde entwickelt, um alles von kleinen bis zu sehr großen
+Projekten mit hoher Geschwindigkeit und Effizienz zu verwalten. Git ist heute das am weitesten verbreitete Versionskontrollsystem und bildet das Rückgrat
+vieler Open Source-Projekte und der modernen Softwareentwicklung.
+
+Hauptmerkmale
+~~~~~~~~~~~~~
+Verteiltes System: Jeder Entwickler besitzt eine vollständige Kopie des Repositories inklusive Historie.
+
+Effizient und schnell: Git ist für hohe Performance optimiert, sowohl bei kleinen als auch bei großen Projekten.
+
+Branching und Merging: Lokale Branches sind einfach, schnell und günstig zu erstellen. Das Zusammenführen (Merging) von Branches ist ein zentrales Feature.
+
+Staging Area: Änderungen können gezielt für den nächsten Commit vorbereitet werden.
+
+Unterstützung für verschiedene Workflows: Git eignet sich für Einzelentwickler, kleine Teams und große Open Source-Projekte 
+gleichermaßen
+
+Geschichte
+~~~~~~~~~~~
+Entstehung: Git wurde 2005 von Linus Torvalds entwickelt, um die Entwicklung des Linux-Kernels zu unterstützen, nachdem das vorherige System (BitKeeper) nicht mehr genutzt werden konnte.
+
+----------------------------------------------------------------
+Eigenschaft		|Beschreibung|
+----------------------------------------------------------------
+Programmiersprache	|C, Perl, Shell
+Plattformen		|Windows, macOS, Linux, Unix
+Lizenz			|GNU General Public License v2 (GPLv2)
+Repository		|https://git-scm.com
+Erste Veröffentlichung	|2005
